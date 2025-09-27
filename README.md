@@ -1,14 +1,12 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
 # 🔢 Row Counter
 
 A simple **JavaScript counter app** that lets you increment a value and save your progress.  
 This was my **very first coding project**, built to practice **HTML, CSS, and JavaScript fundamentals**.
+
+---
+
+## 🚀 Live Demo  
+[🔗 Visit Website](https://mariaigosheva.github.io/yarn-row-counter)
 
 ---
 
