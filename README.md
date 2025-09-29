@@ -6,7 +6,7 @@ This was my **very first coding project**, built to practice **HTML, CSS, and Ja
 ---
 
 ## 🚀 Live Demo  
-[🔗 Visit Demo](https://mariaigosheva.github.io/yarn-row-counter)
+[🔗 Visit Website](https://mariaigosheva.github.io/yarn-row-counter)
 
 ---
 
